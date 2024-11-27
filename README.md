@@ -12,16 +12,11 @@ This repository contains the code used in the Python Flask Authentication [video
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies.
 
-##### Windows:
+### Windows:
 ```bash
-pip install -r requirements.txt 
-## Usage
-
-##### Windows:
-```zsh
+pip install -r requirements.txt
+Usage 🚀
+Windows:
 python app.py
-```
-##### macOS/Linux:
-```zsh
+macOS/Linux:
 python3 app.py
-```
