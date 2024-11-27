@@ -1,20 +1,20 @@
-## Python Flask Authentication
+# Python Flask Authentication 🔒
 
-This repository contains the code used in the Python Flask Authentication [video](https://www.youtube.com/watch?v=71EU8gnZqZQ) uploaded on [my YouTube channel](https://www.youtube.com/watch?v=71EU8gnZqZQ).
+This repository contains the code used in the Python Flask Authentication [video](https://www.youtube.com/watch?v=71EU8gnZqZQ) uploaded on [my YouTube channel](https://www.youtube.com/watch?v=71EU8gnZqZQ). 🎥
 
-## Installation
+## Table of Contents 📚
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies
+## Installation 🛠️
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies.
 
 ##### Windows:
-```zsh
-pip install -r requirements.txt 
-```
-
-##### macOS/Linux:
-```zsh
-pip3 install -r requirements.txt
-```
+```bash
+pip install -r requirements.txt
 
 ## Usage
 
