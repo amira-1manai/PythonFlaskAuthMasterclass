@@ -1,6 +1,6 @@
 # Python Flask Authentication 🔒
 
-This repository contains the code used in the Python Flask Authentication 
+This repository contains the code used in the Python Flask Authentication.
 
 ## Table of Contents 📚
 - [Installation](#installation)
@@ -17,6 +17,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 Usage 🚀
 Windows:
+
+
+Copier
 python app.py
 macOS/Linux:
+
+
+Copier
 python3 app.py
+
