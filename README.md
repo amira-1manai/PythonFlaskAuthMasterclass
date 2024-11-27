@@ -14,8 +14,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 
 ##### Windows:
 ```bash
-pip install -r requirements.txt
-
+pip install -r requirements.txt 
 ## Usage
 
 ##### Windows:
